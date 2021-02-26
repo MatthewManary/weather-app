@@ -1,0 +1,1 @@
+Basic weather app built with node.js and Express using the OpenWeatherMap API to display basic weather info for the city of your choosing.
